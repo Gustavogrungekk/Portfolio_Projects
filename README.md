@@ -1,2 +1,2 @@
-#### Welcome to my Portfolio_Projects folder!
+#### Welcome to my Portfolio_Projects folder! ![image](https://user-images.githubusercontent.com/82980172/184871844-a60dd372-6467-4d67-a5e8-769da27a639b.png)
 In this folder I’d like to register all of my projects towards Data Science and Machine Learning, here I intend to share everything new that I come across as well as my practices with data and AI. I’m still and forever will be a scholar in the field of technology since we can’t learn everything for sure it is worth pursuing knowledge about it, feel completely free to give any type of suggestions and critics about my work, I do need them to get different perspectives about what I am doing and how can I get better at it. I’m open for invitations and proposals thank you.
