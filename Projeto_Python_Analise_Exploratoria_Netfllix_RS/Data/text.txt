@@ -1,1 +1,2 @@
-
+# Os dados que utilizei neste projeto.
+Não inclui data_1.tsv
